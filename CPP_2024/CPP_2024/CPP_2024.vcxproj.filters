@@ -84,5 +84,17 @@
     <ClCompile Include="project_23.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="static.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator overloading.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_ref.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

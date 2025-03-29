@@ -19,6 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="inheritance.cpp" />
+    <ClCompile Include="operator overloading.cpp" />
+    <ClCompile Include="pointer_ref.cpp" />
     <ClCompile Include="project_1.cpp" />
     <ClCompile Include="project_10.cpp" />
     <ClCompile Include="project_11.cpp" />
@@ -42,6 +45,7 @@
     <ClCompile Include="project_7.cpp" />
     <ClCompile Include="project_8.cpp" />
     <ClCompile Include="project_9.cpp" />
+    <ClCompile Include="static.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

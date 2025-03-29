@@ -52,3 +52,10 @@ int compare(const void* a, const void* b) {
 	else if (strcmp(choice, "수학") == 0) return y.math - x.math;
 	else return y.avg - x.avg;
 }
+
+/*
+이 코드를 작성할때 처음에는 qsort를 사용하려 했으나 compare 함수 작성법이 기억나지 않아서
+수업 시간 때는 버블 정렬 코드를 직접 짜서 성적을 오름차순으로 정렬 후 이름을 역순으로 출력하였다.
+하지만 집에와서 보니 코드가 너무 길어지고 가독성이 떨어져서 퀵정렬 함수를 사용하였다.
+std::cin으로 문자열을 입력받는 부분도 scanf로만 해봐서 헷갈렸으나 금방 적응하였다.
+*/
