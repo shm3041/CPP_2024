@@ -18,36 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="project_1.cpp" />
-    <ClCompile Include="project_10.cpp" />
-    <ClCompile Include="project_11.cpp" />
-    <ClCompile Include="project_12.cpp" />
-    <ClCompile Include="project_13.cpp" />
-    <ClCompile Include="project_14.cpp" />
-    <ClCompile Include="project_15.cpp" />
-    <ClCompile Include="project_16.cpp" />
-    <ClCompile Include="project_17.cpp" />
-    <ClCompile Include="project_18.cpp" />
-    <ClCompile Include="project_19.cpp" />
-    <ClCompile Include="project_2.cpp" />
-    <ClCompile Include="project_20.cpp" />
-    <ClCompile Include="project_21.cpp" />
-    <ClCompile Include="project_22.cpp" />
-    <ClCompile Include="project_23.cpp" />
-    <ClCompile Include="project_3.cpp" />
-    <ClCompile Include="project_4.cpp" />
-    <ClCompile Include="project_5.cpp" />
-    <ClCompile Include="project_6.cpp" />
-    <ClCompile Include="project_7.cpp" />
-    <ClCompile Include="project_8.cpp" />
-    <ClCompile Include="project_9.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5c0a85b8-5e3b-4d15-9ee7-3ce883f083cb}</ProjectGuid>
-    <RootNamespace>CPP2024</RootNamespace>
+    <ProjectGuid>{c53b98fa-4d99-48fc-9063-90ee25ef77a2}</ProjectGuid>
+    <RootNamespace>Start</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
